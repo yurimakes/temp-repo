@@ -1,2 +1,1 @@
-# temp-repo
-Lab 2
+# Open Source Lab 2
